@@ -3,7 +3,7 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEfforterRepo&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 ![Efforter's GitHub stats](https://github-readme-stats.vercel.app/api?username=efforterRepo&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=efforter)](https://solved.ac/efforter/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aspira2771)](https://solved.ac/aspira2771/)
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
